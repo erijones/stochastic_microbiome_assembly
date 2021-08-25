@@ -32,3 +32,7 @@ Several (nonstandard) dependencies are used in this python file:
 + Python modules statsmodels, pickle, and rpy2 must be installed
 + The statistical programming language R must be installed
 + In R the packages base, utils, and XNomial must be installed
+
+License
+-------
+This code is covered under GNU GPLv3.
