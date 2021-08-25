@@ -11,8 +11,8 @@ Contents
 + raw_combinatorial_fly_microbiome_abundance_data.csv ...
     raw data file that contains microbial abundance data. Flies are fed
     combinations of bacterial species, then crushed and assayed after 10 or 15
-    days. 48 fly replicates (3 technical replicates per biological replicate)
-    are fed bacteria for each of 32 combinations of bacterial species.
+    days. 48 fly replicates are fed bacteria for each of 32 combinations of
+    bacterial species.
 + stochastic_microbiome_assembly.py ...
     main python3 function that imports and analyzes microbiome abundance data,
     produces statistical models that reproduce observed colonization patterns,
