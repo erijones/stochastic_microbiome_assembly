@@ -2,8 +2,7 @@
 #
 # Version 1.0
 # This python program consitutes companion code to the paper ``Stochastic
-# community assembly of the Drosophila melanogaster microbiome depends on
-# context.'' 
+# microbiome assembly depends on context.'' 
 #
 # This code:
 #   + imports raw microbiome abundance data from a combinatorial dissection fly

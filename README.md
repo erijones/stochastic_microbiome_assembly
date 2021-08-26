@@ -2,8 +2,7 @@ Stochastic microbiome assembly of the fruit fly microbiome
 ==========================================================
 
 This directory contains raw data and companion code for the paper "Stochastic
-community assembly of the Drosophila melanogaster microbiome depends on
-context."
+microbiome assembly depends on context."
 
 
 Contents
